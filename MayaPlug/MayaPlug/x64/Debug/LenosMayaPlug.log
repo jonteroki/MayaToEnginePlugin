@@ -1,0 +1,4 @@
+﻿  mayapy är inte ett internt kommando, externt kommando,
+  program eller kommandofil.
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppCommon.targets(128,5): error MSB3073: The command "mayapy unloadPlugin.py
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppCommon.targets(128,5): error MSB3073: :VCEnd" exited with code 9009.
